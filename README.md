@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.giphy.com/media/RN6Js7SteZ0mACDRWM/giphy.gif" width="500" alt="Sasuke Uchiha">
+<img src="https://media.giphy.com/media/kJmtyX5VtYCl11IUEd/giphy.gif" width="600" alt="Sasuke Uchiha">
 
 # 👋 Olá, eu sou Patrick Carneiro
 
@@ -74,7 +74,7 @@ Busco evoluir constantemente através de projetos práticos, boas práticas de d
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [linkedin.com/in/phcarneiro9](https://www.linkedin.com/in/phcarneiro9)  
+💼 **LinkedIn:** [linkedin.com/in/phcarneiro9](https://linkedin.com/in/phcarneiro9)  
 📧 **Email:** patrick.carneiro.dev@gmail.com
 
 ---
