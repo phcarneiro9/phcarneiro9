@@ -1,72 +1,86 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhvYW5mMzRlcW56enptMWhuaWFqZ3B2dnducTJ0aHd0YmI1cDdodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="600">
+# 👋 Olá, eu sou Patrick Carneiro
 
-<br>
+### 💻 Desenvolvedor Full Stack Java | Java • Spring Boot • React • TypeScript
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=000000&center=true&vCenter=true&random=false&width=800&lines=👋+Olá%2C+eu+sou+Patrick+Carneiro%21;💻+Desenvolvedor+Full+Stack+Java;🎓+Estudante+de+Sistemas+de+Informação)
+<p>
+  <a href="https://github.com/phcarneiro9">
+    <img src="https://img.shields.io/badge/GitHub-phcarneiro9-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/phcarneiro9">
+    <img src="https://img.shields.io/badge/LinkedIn-Patrick%20Carneiro-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
 </div>
 
-<hr style="height:3px;border:none;background-color:#555;">
+---
 
-## ⭐ Sobre mim
+## 🚀 Sobre mim
 
-Olá! Seja bem-vindo ao meu perfil.
+Sou desenvolvedor **Full Stack em formação**, com foco no ecossistema **Java e Spring Boot** no back-end e experiência com **React e TypeScript** no front-end.
 
-Atualmente participo do Bootcamp Full Stack Java da Generation Brasil, desenvolvendo aplicações com Java, Spring Boot, APIs REST, POO e Banco de Dados.
+Tenho interesse em construir aplicações completas, desde APIs REST e integração com bancos de dados até interfaces web responsivas e consumo de serviços.
 
-Sou estudante de Sistemas de Informação na Faculdade Impacta, sempre buscando evoluir minhas habilidades em desenvolvimento e tecnologia.
+🎓 Estudante de Sistemas de Informação  
+💻 Foco em desenvolvimento Full Stack  
+☕ Java + Spring Boot  
+⚛️ React + TypeScript  
+🗄️ MySQL + SQL  
+🔧 Git + GitHub
 
-☕ Java  
-🚀 Spring Boot  
-💾 MySQL  
-🔧 Git e GitHub  
-🔹 Programação Orientada a Objetos  
-
-Meu objetivo é evoluir constantemente como desenvolvedor, criando soluções eficientes e transformando ideias em código.
-
-> 💻 "Cada linha de código é um passo em direção à evolução."
+Busco evoluir constantemente através de projetos práticos, boas práticas de desenvolvimento e desafios que me permitam transformar ideias em soluções funcionais.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-### ☕ Back-end
-- Java
-- Spring Boot
-- API REST
+### Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square)
 
-### 💾 Banco de Dados
-- MySQL
-- SQL
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### 🌐 Front-end
-- HTML5
-- CSS3
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
 
-### 🔧 Ferramentas
-- Git
-- GitHub
-- Eclipse
-- Spring Tool Suite
-- VS Code
-- Photoshop
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📌 Projetos em destaque
+
+🔹 **Loja Games API** — API REST desenvolvida com Java, Spring Boot e MySQL.  
+🔹 **Prática Avaliada 09** — Aplicação React + TypeScript com autenticação, CRUD, busca, carrinho e integração com API.  
+🔹 **Projeto Final Bloco 03** — Front-end React + TypeScript integrado a uma API Spring Boot.  
+🔹 **E-commerce Informática** — API REST com Java, Spring Boot e MySQL para gerenciamento de clientes e pedidos.  
+🔹 **Portfolio** — Meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript.
+
+👉 Confira todos os projetos nos repositórios abaixo.
 
 ---
 
 ## 📫 Contato
 
-💼 LinkedIn  
-https://www.linkedin.com/in/phcarneiro9
+💼 **LinkedIn:** [linkedin.com/in/phcarneiro9](https://www.linkedin.com/in/phcarneiro9)  
+📧 **Email:** patrick.carneiro.dev@gmail.com
 
-📧 Email  
-patrick.carneiro.dev@gmail.com
-
+---
 
 <div align="center">
 
-⚡ Obrigado por visitar meu perfil!
+### 🚀 Transformando ideias em código.
 
-</div>
+**Obrigado por visitar meu perfil!**
+
 </div>
