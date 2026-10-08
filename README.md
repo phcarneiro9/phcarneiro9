@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/kJmtyX5VtYCl11IUEd/giphy.gif" width="600" alt="Sasuke Uchiha">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhvYW5mMzRlcW56enptMWhuaWFqZ3B2dnducTJ0aHd0YmI1cDdodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CchzkJJ6UrQmQ/giphy.gif" width="600" alt="Itachi Uchiha">
 
 # 👋 Olá, eu sou Patrick Carneiro
 
