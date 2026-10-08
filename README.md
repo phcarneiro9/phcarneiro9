@@ -4,7 +4,7 @@
 
 # 👋 Olá, eu sou Patrick Carneiro
 
-### 💻 Desenvolvedor Full Stack Java | Java • Spring Boot • React • TypeScript
+### 💻 Desenvolvedor Full Stack | Java • Spring Boot • React • TypeScript
 
 <p>
   <a href="https://github.com/phcarneiro9">
@@ -21,18 +21,13 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Full Stack em formação**, com foco no ecossistema **Java e Spring Boot** no back-end e experiência com **React e TypeScript** no front-end.
+Sou desenvolvedor **Full Stack em formação**, com foco em **Java e Spring Boot** no back-end e **React e TypeScript** no front-end.
 
-Tenho interesse em construir aplicações completas, desde APIs REST e integração com bancos de dados até interfaces web responsivas e consumo de serviços.
-
-🎓 Estudante de Sistemas de Informação  
-💻 Foco em desenvolvimento Full Stack  
+🎓 Sistemas de Informação  
 ☕ Java + Spring Boot  
 ⚛️ React + TypeScript  
 🗄️ MySQL + SQL  
 🔧 Git + GitHub
-
-Busco evoluir constantemente através de projetos práticos, boas práticas de desenvolvimento e desafios que me permitam transformar ideias em soluções funcionais.
 
 ---
 
@@ -56,33 +51,47 @@ Busco evoluir constantemente através de projetos práticos, boas práticas de d
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📌 Projetos em destaque
+## ⭐ Projetos em destaque
 
-🔹 **Loja Games API** — API REST desenvolvida com Java, Spring Boot e MySQL.  
-🔹 **Prática Avaliada 09** — Aplicação React + TypeScript com autenticação, CRUD, busca, carrinho e integração com API.  
-🔹 **Projeto Final Bloco 03** — Front-end React + TypeScript integrado a uma API Spring Boot.  
-🔹 **E-commerce Informática** — API REST com Java, Spring Boot e MySQL para gerenciamento de clientes e pedidos.  
-🔹 **Portfolio** — Meu portfólio pessoal desenvolvido com HTML, CSS e JavaScript.
+### 🎮 Loja Games
+API REST com **Java, Spring Boot e MySQL**.
 
-👉 Confira todos os projetos nos repositórios abaixo.
+[📂 Repositório](https://github.com/phcarneiro9/Loja_Games_API)
+
+### 🛒 Loja Games — Front-end
+Aplicação **React + TypeScript** com autenticação, CRUD, busca, carrinho e integração com API.
+
+[📂 Repositório](https://github.com/phcarneiro9/Pratica_Avaliada_09) · [🌐 Aplicação online](https://pratica-avaliada-09.onrender.com)
+
+### 💊 Farmácia Bem Estar
+Front-end **React + TypeScript** integrado a uma API REST em Spring Boot.
+
+[📂 Repositório](https://github.com/phcarneiro9/Projeto_Final_Bloco_03)
+
+### 🖥️ E-commerce Informática
+API REST com **Java, Spring Boot e MySQL** para gerenciamento de clientes e pedidos.
+
+[📂 Repositório](https://github.com/phcarneiro9/Ecommerce_Informatica)
+
+### 💻 Portfólio
+Meu portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, com integração à API do GitHub.
+
+[📂 Repositório](https://github.com/phcarneiro9/portfolio)
+
+> ⚠️ O endereço antigo do Render do portfólio não está mais registrado no repositório nem disponível no histórico que consigo recuperar. Não vou inventar uma URL e te passar como se fosse a correta.
 
 ---
 
 ## 📫 Contato
 
-💼 **LinkedIn:** [linkedin.com/in/phcarneiro9](https://linkedin.com/in/phcarneiro9)  
-📧 **Email:** patrick.carneiro.dev@gmail.com
-
----
+💼 [LinkedIn](https://www.linkedin.com/in/phcarneiro9)  
+🐙 [GitHub](https://github.com/phcarneiro9)
 
 <div align="center">
 
 ### 🚀 Transformando ideias em código.
-
-**Obrigado por visitar meu perfil!**
 
 </div>
