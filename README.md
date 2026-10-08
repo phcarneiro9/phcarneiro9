@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://tenor.com/pt-BR/view/sasuke-banner-sasuke-sasuke-uchiha-sharingan-naruto-and-sasuke-gif-15850884574990298915" width="500" alt="Coding GIF">
+<img src="https://i.giphy.com/media/RN6Js7SteZ0mACDRWM/giphy.gif" width="500" alt="Sasuke Uchiha">
 
 # 👋 Olá, eu sou Patrick Carneiro
 
