@@ -54,37 +54,6 @@ Sou desenvolvedor **Full Stack em formação**, com foco em **Java e Spring Boot
 
 ---
 
-## ⭐ Projetos em destaque
-
-### 🎮 Loja Games
-API REST com **Java, Spring Boot e MySQL**.
-
-[📂 Repositório](https://github.com/phcarneiro9/Loja_Games_API)
-
-### 🛒 Loja Games — Front-end
-Aplicação **React + TypeScript** com autenticação, CRUD, busca, carrinho e integração com API.
-
-[📂 Repositório](https://github.com/phcarneiro9/Pratica_Avaliada_09) · [🌐 Aplicação online](https://pratica-avaliada-09.onrender.com)
-
-### 💊 Farmácia Bem Estar
-Front-end **React + TypeScript** integrado a uma API REST em Spring Boot.
-
-[📂 Repositório](https://github.com/phcarneiro9/Projeto_Final_Bloco_03)
-
-### 🖥️ E-commerce Informática
-API REST com **Java, Spring Boot e MySQL** para gerenciamento de clientes e pedidos.
-
-[📂 Repositório](https://github.com/phcarneiro9/Ecommerce_Informatica)
-
-### 💻 Portfólio
-Meu portfólio pessoal desenvolvido com **HTML, CSS e JavaScript**, com integração à API do GitHub.
-
-[📂 Repositório](https://github.com/phcarneiro9/portfolio)
-
-> ⚠️ O endereço antigo do Render do portfólio não está mais registrado no repositório nem disponível no histórico que consigo recuperar. Não vou inventar uma URL e te passar como se fosse a correta.
-
----
-
 ## 📫 Contato
 
 💼 [LinkedIn](https://www.linkedin.com/in/phcarneiro9)  
