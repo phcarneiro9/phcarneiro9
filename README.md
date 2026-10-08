@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+
 # 👋 Olá, eu sou Patrick Carneiro
 
 ### 💻 Desenvolvedor Full Stack Java | Java • Spring Boot • React • TypeScript
